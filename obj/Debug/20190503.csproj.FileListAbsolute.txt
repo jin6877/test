@@ -1,0 +1,10 @@
+D:\C_work\20190503\20190503\bin\Debug\20190503.exe.config
+D:\C_work\20190503\20190503\bin\Debug\20190503.exe
+D:\C_work\20190503\20190503\bin\Debug\20190503.pdb
+D:\C_work\20190503\20190503\obj\Debug\20190503.csprojAssemblyReference.cache
+D:\C_work\20190503\20190503\obj\Debug\_20190503.Form1.resources
+D:\C_work\20190503\20190503\obj\Debug\_20190503.Properties.Resources.resources
+D:\C_work\20190503\20190503\obj\Debug\20190503.csproj.GenerateResource.cache
+D:\C_work\20190503\20190503\obj\Debug\20190503.csproj.CoreCompileInputs.cache
+D:\C_work\20190503\20190503\obj\Debug\20190503.exe
+D:\C_work\20190503\20190503\obj\Debug\20190503.pdb
